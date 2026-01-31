@@ -22,8 +22,8 @@ Positive Functional Test, Negative Functional Test (conceptual mapping), and UI 
 1. Install [Node.js](https://nodejs.org/) if not already installed.  
 2. Clone the repository and navigate into it:
    ```bash
-   git clone https://github.com/wenushiwijerathna/IT23646810-ITPM-Assignment-1.git
-   cd IT23646810-ITPM-Assignment-1
+   git clone https://github.com/IT23693722/it23693722-ITPM-Assignment-1.git
+   cd IT23693722-ITPM-Assignment-1
 
 3. Run all tests:
    npx playwright test
